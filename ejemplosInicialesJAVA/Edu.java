@@ -13,6 +13,7 @@ public class Edu {
             return true;
         }else{
             return false;
+		System.out.println("Edu me ha pegado");
         }
     }
 
