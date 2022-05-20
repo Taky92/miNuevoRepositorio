@@ -12,6 +12,7 @@ public class Entrada {
         }
         catch(Exception e){
             System.out.append("Entrada incorrecta)");
+	    System.out.append("Entrada modificada");
         }
         return buzon;
     }
